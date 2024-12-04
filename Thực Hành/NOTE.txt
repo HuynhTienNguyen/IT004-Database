@@ -1,0 +1,3 @@
+lưu ý trong THI giả sử khi truy suất ngày
+where between (giá trị 1, giá trị 2)
+thì trong bảng giá trị phải tồn tại 2 giá trị đó, nếu không sẽ bị tính là sai(dù chạy được hay không)
